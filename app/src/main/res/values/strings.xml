@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">CicloDeVida</string>
+    <string name="mainBtnAccept">Aceptar</string>
+    <string name="txtW_main_Title1">Bienvenido! Ingrese usuario y contraseña</string>
+    <string name="HintPass">Contraseña</string>
+    <string name="mainBtnRegister">Registrar</string>
+    <string name="btnMainSalir">Salir</string>
+    <string name="HintUser">Usuario</string>
+    <string name="txtUserMenu">Bienvenio al menu de usuario</string>
+</resources>
